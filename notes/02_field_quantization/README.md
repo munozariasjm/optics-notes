@@ -1,0 +1,1 @@
+Capítulo 2: Cuantización del campo: especial interés en el campo mono-modo, el caso multimodal no se estudia con tanta profundidad. Puedes pasar directamente a estudiar la fase cuántica, sin pasar por la deducción del efecto Lamb que es la sección 2.6.

@@ -1,0 +1,1 @@
+Puedes pasar a estudiar el capítulo 3 que es el de estados coherentes, ese si estúdialo completamente.
