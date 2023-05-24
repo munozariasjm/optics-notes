@@ -1,1 +1,0 @@
-Todo el capítulo 4 menos la sección 4.8 ni la sección 4.9. La sección 4.10 si debe estudiarse.
