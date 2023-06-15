@@ -1,0 +1,1 @@
+Capítulo 2: lo que se hace en la sección 2.5. En el capítulo 3: ejercicios 12 y 13. Capítulo 4: énfasis en  lo que se hace en la sección 4.5 hasta la ecuación 4.125. Hacer el problema 8. Capítulo 6, especial atención páginas 139 a 144 que son las secciones 6.2 y 6.3. Hacer el problema 7.Estudiar:  Qué utilidad puede tener el teorema de descomposición de Schmidth.
