@@ -14,4 +14,23 @@ This repository some notes on the basics of optics. The main focus is on buildin
 
 ## Installation
 
-To run the generated notebooks, you will need to install julia and jupyter notebooks
+To run the generated notebooks, you will need to install julia and jupyter notebooks.
+
+## Awesome resources for learning quantum optics
+
+some of the resources I used to learn:
+
+- [Gerry and Knight](https://www.amazon.com/Introductory-Quantum-Optics-Christopher-Gerry/dp/052152735X)
+- [Introduction to Quantum Optics course at Shanghai Jiao Tong University](https://www.youtube.com/watch?v=rxILmK0yn7w&list=PLQOPozM-bhZrWIyxwD_sMe9Q0HvwMzJNS)
+- [LMU Quantum Optics](https://www.youtube.com/watch?v=4s2dreYqC3Y&list=PLs73wM67EnwnoHnYLf3yrLZY2MKcnvfZq)
+- [Courses on Optics by the Nobel Alan Aspect](https://www.youtube.com/playlist?list=PLlTBVbC2CoE-x8xYZ9GXdgE6xiaVquhNF)
+
+## Contributing
+
+If you would like to contribute to this project, please get in touch with me.
+
+Moreover, if you find any typos, errors, or places where the text could be improved, please let me know by making a contribution to this repository.
+
+## Authors
+
+- [**Jose M Muñoz**](https://munozariasjm.github.io/)
