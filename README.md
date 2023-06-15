@@ -1,6 +1,6 @@
-# Simple Optics - Physics Notes
+# Simple Quantum Optics - Physics Notes
 
-This repository some notes on the basics of optics. The main focus is on building the very basics of optics from the ground up. The notes are written in a way that is accessible to anyone with quantum physics priors and including animations (and the code to generate them).
+This repository some notes on the basics of optics. The main focus is on building the very basics of optics from the ground up, and of course as intent to democratize access to knowledge, the notes are free and open source. The notes are written in a way that is accessible to anyone with quantum physics priors and including animations (and the code to generate them). You might still need a bit of context to understand core concepts, I am currently working on a set of notes on quantum mechanics [here](https://github.com/munozariasjm/QM-notes/tree/main).
 
 
 ## Table of Contents
